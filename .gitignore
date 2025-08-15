@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.env
+cliniops.db
+.DS_Store
