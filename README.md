@@ -24,7 +24,7 @@ Plataforma demo, com base de protocolos clínicos, busca semântica simples e su
 
 ### 1. Clonar repositório
 ```bash
-git clone https://github.com/<seu-usuario>/cliniops-ai.git
+git clone https://github.com/CaikRian/cliniops-ai.git
 cd cliniops-ai
 ```
 
